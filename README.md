@@ -1,19 +1,52 @@
-## Hola! soy Osama Benhachem Gharrass 👋
+# 🧑‍💻 **Osama Benhachem Gharrass**
 
-<!--
-**osamasgit/osamasgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 **Futuro Ingeniero en Software y Desarrollador Web**
 
-Here are some ideas to get you started:
+Hola, soy Osama Benhachem Gharrass. Estoy comenzando mis estudios en ingeniería del software, enfocado en el desarrollo web, la inteligencia artificial, la programación y las tecnologías emergentes. Mi objetivo es aprender y mejorar cada día para convertirme en un profesional destacado y desarrollar proyectos tecnológicos innovadores que generen impacto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Logo para portadas.](https://github.com/osamasgit/osamasgit/blob/main/logo_para_portadas.png)
+---
 
-Estudio ingeniería y me estoy formando en desarrollo web. Mi pasión por la tecnología y la informática me impulsa a buscar soluciones innovadoras que mejoren los procesos y generen valor. A través de este portafolio, quiero mostrar mis habilidades y proyectos, a la vez que busco oportunidades profesionales que me permitan aplicar mis conocimientos en programación y tecnologías emergentes. Mi objetivo es seguir creciendo en el ámbito de la ingeniería y la programación, busco conectar con empresas que valoren mi formación y ganas de seguir aprendiendo, y explorar nuevas oportunidades para seguir creciendo como profesional.
+## 🚀 **Acerca de mí**  
+- 👨‍🎓 **Estudios**:  
+  - Ingeniería del Software (en proceso).  
+  - Actualmente cursando un **Bootcamp en Full Stack Developer**.  
+- 💻 **Enfoque**: Desarrollo web, inteligencia artificial, programación y tecnologías emergentes.  
+- 🌱 **Objetivo**: Reforzar mi formación profesional y construir una carrera basada en proyectos tecnológicos innovadores.  
+- 🌍 **Intereses**: Innovación tecnológica, aprendizaje continuo y desarrollo profesional.
+
+---
+
+## 🛠️ **Tecnologías y Habilidades**  
+### **Lenguajes de Programación**  
+- C++  
+- Python  
+- HTML  
+- CSS  
+- JavaScript  
+
+### **Herramientas y Frameworks**  
+- MATLAB  
+- Visual Studio Code  
+- Git  
+- Microsoft Excel  
+- EES  
+- Fluent  
+- SketchUp  
+- CypeTherm  
+- EnergyPlus  
+
+---
+
+## ✨ **Proyectos Destacados**  
+Actualmente estoy en proceso de formación y preparación para desarrollar mis primeros proyectos. ¡Pronto compartiré aquí mis avances! 🎯  
+
+---
+
+## 📫 **¡Conecta conmigo!**  
+- 🌐 **Portafolio**: [www.osamasportfolio.com](http://www.osamasportfolio.com)  
+- 💼 **LinkedIn**: [Osama Benhachem Gharrass](https://es.linkedin.com/in/oussama-benhachem-gharrass)  
+- 📧 **Email**: obg1309@gmail.com  
+
+---
+
+### **🌟 "El aprendizaje constante y la innovación son la clave para crear el futuro."**
