@@ -1,4 +1,4 @@
-![Banner](https://github.com/osamasgit/osamasgit/blob/main/logo_para_portadas.png?raw=true)
+![Banner](https://github.com/osamasgit/osamasgit/blob/main/logo_para_portadas_fino.PNG?raw=true)
 # 🧑‍💻 **Osama Benhachem Gharrass**
 
 ### 🌟 **Futuro Ingeniero en Software y Desarrollador Web**
