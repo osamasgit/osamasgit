@@ -1,7 +1,7 @@
 ![Banner](https://github.com/osamasgit/osamasgit/blob/main/logo_para_portadas.png?raw=true)
 
 <p align="center">
-  <img src="logo.png" alt="Logo de Osama Benhachem Gharrass" width="150">
+  <img src="logo_para_portadas.png" alt="Logo de Osama Benhachem Gharrass" width="150">
 </p>
 # 🧑‍💻 **Osama Benhachem Gharrass**
 
