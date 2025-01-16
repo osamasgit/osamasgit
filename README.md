@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Logo para portadas.](https://github.com/osamasgit/osamasgit/blob/main/logo_para_portadas.png)
+
+Estudio ingeniería y me estoy formando en desarrollo web. Mi pasión por la tecnología y la informática me impulsa a buscar soluciones innovadoras que mejoren los procesos y generen valor. A través de este portafolio, quiero mostrar mis habilidades y proyectos, a la vez que busco oportunidades profesionales que me permitan aplicar mis conocimientos en programación y tecnologías emergentes. Mi objetivo es seguir creciendo en el ámbito de la ingeniería y la programación, busco conectar con empresas que valoren mi formación y ganas de seguir aprendiendo, y explorar nuevas oportunidades para seguir creciendo como profesional.
