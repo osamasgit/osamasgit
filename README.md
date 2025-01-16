@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hola](D:\Porfolio\Logos\logo para portadas.png "HOLA")
+!Hola img1
+img1: D:\Porfolio\Logos\logo para portadas.png "Hola"
