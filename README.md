@@ -1,3 +1,8 @@
+![Banner](background.jpg)
+
+<p align="center">
+  <img src="logo.png" alt="Logo de Osama Benhachem Gharrass" width="150">
+</p>
 # 🧑‍💻 **Osama Benhachem Gharrass**
 
 ### 🌟 **Futuro Ingeniero en Software y Desarrollador Web**
