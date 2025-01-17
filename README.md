@@ -45,7 +45,8 @@ Actualmente estoy en proceso de formación y preparación para desarrollar mis p
 
 ## 📫 **¡Conecta conmigo!**  
 - 🌐 **Portafolio**: [www.osamasportfolio.com](http://www.osamasportfolio.com)  
-- 💼 **LinkedIn**: [Osama Benhachem Gharrass](https://es.linkedin.com/in/oussama-benhachem-gharrass)  
+- 💼 **LinkedIn**: [Osama Benhachem Gharrass](https://es.linkedin.com/in/oussama-benhachem-gharrass)
+- 𝕏  **Twitter**: [Osama Benhachem Gharrass](https://x.com/OussamaBenhach2)  
 - 📧 **Email**: obg1309@gmail.com  
 
 ---
